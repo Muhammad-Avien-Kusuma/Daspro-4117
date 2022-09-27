@@ -12,7 +12,7 @@ int main()
     int a4 = 4117;
     float b = 171.5;
     string c = "Muhammad Avien Kusuma";
-    string c2 = "A11.2022.14650";
+    string c2 = "A11.2022.xxx";
     string c3 = "Game, Music, Fishing";
 
     //output identitas
